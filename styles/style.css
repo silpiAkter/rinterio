@@ -6,6 +6,11 @@
     cursor: pointer;
 }
 
+.text-bld:hover{
+    font-weight: 800;
+    color: #1c1c1c;
+    background: transparent;
+}
 .custom-btn{
     background: rgba(171, 239, 95, 1);
     border-radius: 50%;
